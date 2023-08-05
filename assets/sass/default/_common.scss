@@ -32,7 +32,11 @@ a:hover {
 	color: inherit;
 }
 .section-padding {
-	padding: 60px 0px;
+
+	padding-top: 60px;
+	padding-right: 0px;
+	padding-bottom: 60px;
+	padding-left: 0px;
 }
 @media (max-width: 575px) {
 	.section-padding {
